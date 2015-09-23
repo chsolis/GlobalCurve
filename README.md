@@ -1,7 +1,7 @@
 GlobalCurve
 ===========
 
-global curve fitting software
+Global curve fitting software for time-resolved fluorescence intensity traces. 
 
 
 Installation
@@ -18,6 +18,10 @@ Usage
 =====
 
 In windows, use PowerShell
+
+In the shell terminal tpe ls "z:"
+Type "cd"
+Tyepe "global curve"
 
 ## Example of analysis
 
